@@ -33,4 +33,9 @@ puts fizzbuzz_printer
 
 def reverse_string(str)
   # your code here
+  reversed_string = ""
+  i = 0
+  while i > str.length
+    
+
 end
